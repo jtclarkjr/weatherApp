@@ -7,50 +7,50 @@ import PropTypes from "prop-types";
 const weatherCases = {
     Rain: {
         colors: ['#00C6FB', "#005BEA"  ],
-        title: "Raining like a MF",
-        subtitle: "For more info look outside",
+        title: "Hella raining",
+        subtitle: "Look outside",
         icon: 'weather-rainy'
     },
     Clear:{
         colors: ['#FEF253', "#FF7300"  ],
         title: "Sunny AF",
-        subtitle: "Go get yo ass burnt",
+        subtitle: "Gonna be hella hot tho",
         icon: 'weather-sunny'
     },
     Thunderstorm:{
         colors: ['#00ECBC', "#007ADF"  ],
-        title: "Thunderstorm in da house",
-        subtitle: "Actually, outside of the house",
+        title: "Thunderstorm",
+        subtitle: "Actually tho",
         icon: 'weather-lightning'
     },
     Clouds:{
         colors: ['#D7D2CC', "#304352"  ],
         title: "Clouds",
-        subtitle: "I know, fucking boring",
+        subtitle: "Like cloud9 bro",
         icon: 'weather-cloudy'
     },
     Snow:{
         colors: ['#7DE2FC', "#B9B6E5"  ],
-        title: "Cold as balls",
-        subtitle: "Do you want to build a snowman? Fuck no.",
+        title: "Cold af",
+        subtitle: "Hi mr.snowman",
         icon: 'weather-snowy'
     },
     Drizzle:{
         colors: ['#89F7FE', "#66A6FF"  ],
         title: "Drizzle",
-        subtitle: "It's like rain, but gay 🏳️‍🌈",
+        subtitle: "It's like rain, but not",
         icon: 'weather-hail'
     },
     Haze:{
         colors: ['#89F7FE', "#66A6FF"  ],
         title: "Haze",
-        subtitle: "IDK what that is 💩",
+        subtitle: "IDK bro",
         icon: 'weather-windy'
     },
     Mist:{
         colors: ['#D7D2CC', "#304352"  ],
         title: "Mist!",
-        subtitle: "Its like you have no glasses",
+        subtitle: "Wtf is this silent hill?",
         icon: 'weather-fog'
     },
 }
